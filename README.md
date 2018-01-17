@@ -3,6 +3,9 @@ Payment QR-Code generator for multi cryptocurrencies
 
 CoinPay is a simple PHP script for stores or freelancers accepting cryptocurrencies as a payment.
 
+First of all, I'm sorry if the code isn't clean, I did this on my spare time for my website.
+You can find a demo here: http://coinpay.sciedou.me/
+
 ##############################
 
 HOW IT WORKS - SERVER SIDE
