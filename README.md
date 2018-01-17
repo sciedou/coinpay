@@ -13,7 +13,7 @@ In the coinpay.php file, set up the cryptocurrencies you wish to receive payment
 
   ["bitcoin","BTC","1ShaDoWc1i38EY6Wc5Y6YHoQZ5tTrhX5g"],
 
-repeat for as many cryptocurrencies you want.
+repeat for as many crypto wallets you want.
 
 Enter the currency in which you bill your customers. It can be one of these:
 
